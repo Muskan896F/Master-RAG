@@ -1,0 +1,14 @@
+langchain
+openai
+chromadb
+faiss-cpu
+sentence-transformers
+transformers
+tiktoken
+numpy
+pandas
+python-dotenv
+nltk
+unstructured
+beautifulsoup4
+requests
